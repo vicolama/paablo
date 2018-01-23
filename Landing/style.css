@@ -20,29 +20,28 @@ h1 {
 
 }
 
+#keywords {
+	margin-top: 50px;
+	text-align: center;
+}
+
+
 h2 {
 	color: #fff;
 	text-shadow: 2px 2px #000;
 	font-family: 'Karla', sans-serif;
 	font-size: 35px;
-	margin-left: auto;
-  	margin-right: auto;
-  	margin-top: 50px;
-  	margin-bottom: 50px;
-	width: 210px;
-	height: auto;
-	border: 1px #fff;
-	text-align: center;
 
 }
 
 h3 {
 	color: #000;
-	text-shadow: 2px 2px #fff;
-	font-size: 40px;
+	text-shadow: 1px 1px #fff;
+	font-size: 25px;
 	margin: 10px;
 	font-family: 'Karla', sans-serif;
-	margin-bottom: 20px;
+	margin-bottom: 5px;
+	margin-top: 50px;
 	text-align: center;
 	
 }
@@ -62,21 +61,33 @@ h3 {
 	width: 150px;
 }
 
+#mc_embed_signup input.email {
+	width: 400px;
+	height: 50px;
 
-
-#mc_embed_signup {
-	color: #fff;
-	font-size: 130px;
-	font-family: 'Karla', sans-serif;
-	text-align: center;
-	clear:center; 
-	font:14px;
-	Karla, sans-serif; 
-	width:100%; 
-	
 }
+
+#mc-embedded-subscribe {
+	background-color: gold;
+	width: 100px;
+	height: 50px;
+	font-family:14px Karla, sans-serif;
+
+}
+
+
 #logo-div {
 	text-align: center;
+}
+
+#carouselExampleControls {
+	width: 50vw;
+	height: 50vh;
+	margin: auto;
+
+}
+
+
 
 
 	
