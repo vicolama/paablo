@@ -1,0 +1,96 @@
+body {
+	background-image: url("Atelier-FrancisBacon_08.jpg");
+	background-size: cover;
+	
+}
+	
+
+#banner {
+	background-size: auto;
+}
+
+h1 {
+	color: #fff;
+	text-shadow: 2px 2px #000;
+	font-size: 60px;
+	margin: 10px;
+	font-family: 'Karla', sans-serif;
+	margin-top: 30px;
+	text-align: center;
+
+}
+
+#keywords {
+	margin-top: 50px;
+	text-align: center;
+}
+
+
+h2 {
+	color: #fff;
+	text-shadow: 2px 2px #000;
+	font-family: 'Karla', sans-serif;
+	font-size: 35px;
+
+}
+
+h3 {
+	color: #000;
+	text-shadow: 1px 1px #fff;
+	font-size: 25px;
+	margin: 10px;
+	font-family: 'Karla', sans-serif;
+	margin-bottom: 5px;
+	margin-top: 50px;
+	text-align: center;
+	
+}
+
+#logo {
+		width: 900px;
+		margin-top: 30px;
+		display: inline-block;
+		margin-bottom: 0px;
+		margin-left: 0px
+    	
+
+
+}
+
+#logo-noir {
+	width: 150px;
+}
+
+#mc_embed_signup input.email {
+	width: 400px;
+	height: 50px;
+
+}
+
+#mc-embedded-subscribe {
+	background-color: gold;
+	width: 100px;
+	height: 50px;
+	font-family:14px Karla, sans-serif;
+
+}
+
+
+#logo-div {
+	text-align: center;
+}
+
+#carouselExampleControls {
+	width: 50vw;
+	height: 50vh;
+	margin: auto;
+
+}
+
+
+
+
+	
+
+
+
